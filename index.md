@@ -1,8 +1,8 @@
 # Riadh's CS193 Homework
 
 - The lecturers being undergrads
-- its flexibility
-- definitely a fresh of breathe air from other more rigorous classes
+- How the topics are all relevant to what I'll be taking in the future in the classroom and outside of it
+- definitely a breathe of fresh air from other more rigorous classes
 
 ## Welcome to GitHub Pages
 
